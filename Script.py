@@ -12,12 +12,12 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: ɴᴇᴛꜰʟɪx-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Beautyofsupportbot>ʙᴇᴀᴜᴛʏᴏꜰᴛʜᴇᴍᴏᴠɪᴇꜱx</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Beautyofsupportbot>ʙᴇᴀᴜᴛʏᴏꜰᴛʜᴇᴍᴏᴠɪᴇꜱ</a></b>"""
+<b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a herf=https://t.me/Beautyofsupportbot>ʙᴇᴀᴜᴛʏᴏꜰᴛʜᴇᴍᴏᴠɪᴇꜱ🎬</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
